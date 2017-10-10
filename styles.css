@@ -1,0 +1,29 @@
+section{
+    padding: 1px;
+    padding-left: 3px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 5px #272222;
+    width:45%;
+
+}
+.furniture_type {
+    border: 4px solid #754200;
+    background-color: #b9834f;
+}
+.vehicle_type {
+    border: 4px solid #58595c;
+    background-color: #45817c;
+}
+.pet_type {
+    border: 4px solid #000000;
+    background-color: #ad73b3;
+}
+.electronics_type {
+    border: 4px solid #045328;
+    background-color: #6ebb75;
+}
+.musicequipment_type {
+    border: 4px solid #2118a1;
+    background-color: #4dccdd;
+}
